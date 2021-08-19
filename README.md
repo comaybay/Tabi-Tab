@@ -1,6 +1,6 @@
 # Tabi-Tab
 
-A simple list management web-app. 
+A simple note management app run on a browser tab
 
 ## HOW TO RUN
 
