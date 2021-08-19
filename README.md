@@ -1,6 +1,6 @@
 # Tabi-Tab
 
-A simple note management app run on a browser tab
+A simple note management app runs on a browser tab
 
 ## HOW TO RUN
 
