@@ -4,7 +4,7 @@ A simple note management app runs on a browser tab.
 You can write down notes and separate them into different lists, import and export list sessions and more!
 
 ![preview1](https://user-images.githubusercontent.com/62052850/131093609-4bd191c6-5251-40c0-a225-4a355cb3fe1f.jpg)
-![preview2](https://user-images.githubusercontent.com/62052850/131094096-a8bb823a-3bc9-4666-b0c8-500beaf78142.jpg)
+![preview2](https://user-images.githubusercontent.com/62052850/131094502-9f952e28-14ea-4c4c-a350-43650fc03e3a.jpg)
 
 ## HOW TO RUN
 
